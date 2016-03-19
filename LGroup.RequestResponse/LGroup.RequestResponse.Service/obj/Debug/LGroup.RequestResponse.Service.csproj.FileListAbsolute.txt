@@ -1,0 +1,9 @@
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\obj\Debug\LGroup.RequestResponse.Service.csprojResolveAssemblyReference.cache
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResponse.Service.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResponse.Service.pdb
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResonse.ValueObject.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResponse.DataTransferObject.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResonse.ValueObject.pdb
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\bin\Debug\LGroup.RequestResponse.DataTransferObject.pdb
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\obj\Debug\LGroup.RequestResponse.Service.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResponse.Service\obj\Debug\LGroup.RequestResponse.Service.pdb

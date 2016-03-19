@@ -1,0 +1,4 @@
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResonse.ValueObject\bin\Debug\LGroup.RequestResonse.ValueObject.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResonse.ValueObject\bin\Debug\LGroup.RequestResonse.ValueObject.pdb
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResonse.ValueObject\obj\Debug\LGroup.RequestResonse.ValueObject.dll
+D:\LGroup\LGroup.RequestResponse\LGroup.RequestResonse.ValueObject\obj\Debug\LGroup.RequestResonse.ValueObject.pdb

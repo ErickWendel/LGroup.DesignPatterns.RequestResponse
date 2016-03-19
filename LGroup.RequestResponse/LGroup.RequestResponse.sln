@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transferencia de Dados", "Transferencia de Dados", "{D8B4C19D-D043-45AB-A9A8-0CD23F9D78C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serviço", "Serviço", "{DBA4AB94-7931-40B6-A69F-057A1A92EA8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servidor", "Servidor", "{EAC292F5-9BC3-4445-8913-CBA9E90CEE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.RequestResponse.DataTransferObject", "LGroup.RequestResponse.DataTransferObject\LGroup.RequestResponse.DataTransferObject.csproj", "{49920AE1-47D8-4ADB-98F0-A1863265E79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.RequestResponse.Service", "LGroup.RequestResponse.Service\LGroup.RequestResponse.Service.csproj", "{F74CC24D-06BB-4937-8035-01D48731AD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.RequestResponse.Server", "LGroup.RequestResponse.Server\LGroup.RequestResponse.Server.csproj", "{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.RequestResonse.ValueObject", "LGroup.RequestResonse.ValueObject\LGroup.RequestResonse.ValueObject.csproj", "{A460D814-3807-4EBB-A122-87283CD37886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49920AE1-47D8-4ADB-98F0-A1863265E79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49920AE1-47D8-4ADB-98F0-A1863265E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49920AE1-47D8-4ADB-98F0-A1863265E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49920AE1-47D8-4ADB-98F0-A1863265E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74CC24D-06BB-4937-8035-01D48731AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74CC24D-06BB-4937-8035-01D48731AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74CC24D-06BB-4937-8035-01D48731AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74CC24D-06BB-4937-8035-01D48731AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A460D814-3807-4EBB-A122-87283CD37886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A460D814-3807-4EBB-A122-87283CD37886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A460D814-3807-4EBB-A122-87283CD37886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A460D814-3807-4EBB-A122-87283CD37886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49920AE1-47D8-4ADB-98F0-A1863265E79A} = {D8B4C19D-D043-45AB-A9A8-0CD23F9D78C5}
+		{A460D814-3807-4EBB-A122-87283CD37886} = {D8B4C19D-D043-45AB-A9A8-0CD23F9D78C5}
+		{F74CC24D-06BB-4937-8035-01D48731AD6D} = {DBA4AB94-7931-40B6-A69F-057A1A92EA8C}
+		{2217A24F-4CB8-41CA-8CF0-5A4DBAA9F187} = {EAC292F5-9BC3-4445-8913-CBA9E90CEE89}
+	EndGlobalSection
+EndGlobal

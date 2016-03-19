@@ -1,0 +1,9 @@
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.exe.config
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.exe
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.pdb
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.csprojResolveAssemblyReference.cache
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.Form1.resources
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.Properties.Resources.resources
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.csproj.GenerateResource.Cache
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.exe
+D:\LGroup\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.pdb
